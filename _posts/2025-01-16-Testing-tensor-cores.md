@@ -1,4 +1,4 @@
-# Testing-tensor-core
+# Testing tensor core
 Altough tensor-core was introduced in the RTX20s series, I have only tried it very breifly after the launch but never used it in practice apart from deloying tensorRT models. It only supports FP16 initially but it's now supporting more data types.
 With siginificant boost of tensor cores in RTX50s series, and disappointing increase in its shader cores performance, it's worth spending some time investigating this feature. 
 I want to test if the performance of the tensor cores are comparable to odinary cuda/shader cores and wether I should upgrade to RTX5090.
