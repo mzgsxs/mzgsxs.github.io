@@ -1,1 +1,1 @@
-My interest is Neural-Interface. This is a website I use to record and share my random thoughts. I did a few years of graduate study and reaserch, but droped out due to pandemics, my study there consists three parts and summarised in the posts below. 
+My interest is in Neural Interface. This is a website I use to record and share my random thoughts. I did a few years of graduate study and research, but dropped out due to the pandemic. My study there consisted of three parts and is summarised in the posts below. 
